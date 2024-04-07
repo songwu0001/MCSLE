@@ -1,6 +1,7 @@
 # Introduction
+
 This repository contains source code for the paper ***Uncertainty-Aware Ship Location Estimation using
-Multiple Cameras in Coastal Areas*** to appear in the conference MDM'2024.
+Multiple Cameras in Coastal Areas*** to appear in the conference ***[IEEE MDM'2024](https://mdm2024.github.io/)***.
 
 In this paper, we propose an algorithm called ***PixelToRegion*** that maps a pixel position in an image to a spatial polygon in lon/lat, and ***PixelToRegion*** extends the classical pinhole imaging model.
 
